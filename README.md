@@ -1,7 +1,7 @@
 To run the project:
 1. Clone the repository
 ```bash
-git clone 
+git clone https://github.com/pigamers/django-doctor.git
 ```
 2. Install the requirements
 Note: move into folder with the help of cd before running this code.
